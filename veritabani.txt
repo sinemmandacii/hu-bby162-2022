@@ -1,4 +1,4 @@
 
-        ">İntibah - Namık KEMAL - 2011 - Homer Kitabevi\n",
-        "> İnce Memed - Yaşar KEMAL - 1955 - Çağlayan Kitabevi\n",
-        "> Huzursuzluk - Ömer Zülfü LİVANELİ - 2017 - Doğan Kitap
+         İntibah - Namık KEMAL - 2011 - Homer Kitabevi
+         İnce Memed - Yaşar KEMAL - 1955 - Çağlayan Kitabevi
+         Huzursuzluk - Ömer Zülfü LİVANELİ - 2017 - Doğan Kitap
