@@ -7,7 +7,7 @@
       "provenance": [],
       "collapsed_sections": [],
       "mount_file_id": "1Bq0J_jb1OttT18yLHJHSn0zGP5xBvbiY",
-      "authorship_tag": "ABX9TyOopQ3cbABC8rwDuqCcALvy",
+      "authorship_tag": "ABX9TyPKabyoCqA8TJYku5tIjp30",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -30,26 +30,13 @@
       ]
     },
     {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "90FXHufCxYO0"
-      },
-      "outputs": [],
-      "source": [
-        "İntibah - Namık KEMAL - 2011 - Homer Kitabevi\n",
-        "İnce Memed - Yaşar KEMAL - 1955 - Çağlayan Kitabevi\n",
-        "Huzursuzluk - Ömer Zülfü LİVANELİ - 2017 - Doğan Kitap"
-      ]
-    },
-    {
       "cell_type": "markdown",
       "source": [
-        "İntibah - Namık KEMAL - 2011 - Homer Kitabevi\n",
-        "İnce Memed - Yaşar KEMAL - 1955 - Çağlayan Kitabevi\n",
-        "Huzursuzluk - Ömer Zülfü LİVANELİ - 2017 - Doğan KitaP\n",
+        ">İntibah - Namık KEMAL - 2011 - Homer Kitabevi\n",
         "\n",
-        "\n"
+        "> İnce Memed - Yaşar KEMAL - 1955 - Çağlayan Kitabevi\n",
+        "\n",
+        "> Huzursuzluk - Ömer Zülfü LİVANELİ - 2017 - Doğan Kitap"
       ],
       "metadata": {
         "id": "-n-fQ59T7-AH"
