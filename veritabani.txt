@@ -1,0 +1,44 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "veritabani.txt",
+      "provenance": [],
+      "collapsed_sections": [],
+      "mount_file_id": "1Bq0J_jb1OttT18yLHJHSn0zGP5xBvbiY",
+      "authorship_tag": "ABX9TyODllvMiLAKOxvFTR+nMN/E",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/sinemmandacii/hu-bby162-2022/blob/main/veritabani.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        ">İntibah - Namık KEMAL - 2011 - Homer Kitabevi\n",
+        "> İnce Memed - Yaşar KEMAL - 1955 - Çağlayan Kitabevi\n",
+        "> Huzursuzluk - Ömer Zülfü LİVANELİ - 2017 - Doğan Kitap"
+      ],
+      "metadata": {
+        "id": "-n-fQ59T7-AH"
+      }
+    }
+  ]
+}
